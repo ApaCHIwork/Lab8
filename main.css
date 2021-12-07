@@ -4,6 +4,7 @@
   position: fixed;
   width: 100%;
   max-width: 1366px;
+  color: green;
   z-index: 999; }
 
 .navbar .block_search {
